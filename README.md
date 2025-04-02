@@ -4,7 +4,9 @@ Olá! Meu nome é Rafael Lumertz Webber e este é o meu repositório onde compar
 
 Sobre Mim 📌
 
-Sou apaixonado por tecnologia e sempre estou em busca de novos desafios. Acredito que a engenharia da computação é a chave para resolver muitos dos problemas do nosso mundo moderno.
+Sou gaúcho e, desde pequeno, a tecnologia sempre despertou minha curiosidade e paixão. Ao longo dos anos, percebi que a programação não é apenas uma ferramenta, mas sim um universo sem limites—um caminho que não possui ponto final, sempre desafiando e motivando a evolução constante.
+
+Estou em busca de novos desafios, que me permitam expandir minha criatividade e habilidades. Para cada obstáculo que enfrento, adapto-me e encontro novas maneiras de crescer, seja desenvolvendo soluções inovadoras ou colaborando em projetos que agreguem valor ao mundo
 
 Projetos 🛠️
 
