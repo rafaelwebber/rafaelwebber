@@ -28,9 +28,14 @@ Se você tem alguma sugestão ou quer trabalhar comigo em algum projeto, por fav
 
 Contato 📬
 
-Email: rafael.webber09@gmail.com
-
-[![LinkedIn](https://img.shields.io/badge/-Meu%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/rafael-lumertz-webber-0707612bb/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-lumertz-webber-0707612bb/">
+    <img src="https://img.shields.io/badge/-Meu%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rafael.webber09@gmail.com">
+    <img src="https://img.shields.io/badge/-Fale%20comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 
 Obrigado pela visita e vamos codificar! 🎉👨‍💻
