@@ -30,6 +30,8 @@ Contato 📬
 
 Email: rafael.webber09@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/rafael-lumertz-webber-0707612bb/
+[![LinkedIn]([http://127.0.0.1:5500/index.html](https://www.linkedin.com/in/rafael-lumertz-webber-0707612bb/))
+
+[![Portfólio](http://127.0.0.1:5500/index.html)
 
 Obrigado pela visita e vamos codificar! 🎉👨‍💻
