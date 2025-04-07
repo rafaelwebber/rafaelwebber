@@ -30,6 +30,31 @@ Contato 📬
 
 Email: rafael.webber09@gmail.com
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)]((https://www.linkedin.com/in/rafael-lumertz-webber-0707612bb/))
+<a href="[(https://www.linkedin.com/in/rafael-lumertz-webber-0707612bb/)]" target="_blank" style="
+  display: inline-flex;
+  align-items: center;
+  background-color: #0A66C2;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: sans-serif;
+  transition: background-color 0.3s ease;
+">
+  <svg xmlns="http://www.w3.org/2000/svg" fill="white" viewBox="0 0 24 24" width="20" height="20" style="margin-right: 8px;">
+    <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 
+      2.761 2.239 5 5 5h14c2.761 0 5-2.239 
+      5-5v-14c0-2.761-2.239-5-5-5zm-11 
+      19h-3v-10h3v10zm-1.5-11.268c-.966 
+      0-1.75-.79-1.75-1.764s.784-1.764 
+      1.75-1.764 1.75.79 
+      1.75 1.764-.784 1.764-1.75 
+      1.764zm13.5 11.268h-3v-5.604c0-3.368-4-3.113-4 
+      0v5.604h-3v-10h3v1.354c1.396-2.586 
+      7-2.777 7 2.476v6.17z"/>
+  </svg>
+  Meu LinkedIn
+</a>
 
 Obrigado pela visita e vamos codificar! 🎉👨‍💻
