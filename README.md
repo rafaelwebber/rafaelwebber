@@ -1,30 +1,12 @@
 Bem-vindo ao Repositório de Engenharia da Computação de Rafael Webber 👨‍💻🚀
 
-Olá! Meu nome é Rafael Lumertz Webber e este é o meu repositório onde compartilho projetos, códigos e estudos relacionados à Engenharia da Computação. Sinta-se à vontade para explorar e contribuir!
+Me chamo Rafael Lumertz Webber, natural de Torres/RS e atualmente residente em Morrinhos do Sul/RS. Tenho 24 anos e sou estudante de Engenharia da Computação na SATC, em Criciúma/SC.
 
-Sobre Mim 📌
+Atualmente trabalho na Anttecipe, na área de TI, atuando remotamente com desenvolvimento de APIs, integração de sistemas e soluções tecnológicas. Tenho experiência com as linguagens Python e C++, além de um breve conhecimento em Java e JavaScript.
 
-Sou gaúcho e, desde pequeno, a tecnologia sempre despertou minha curiosidade e paixão. Ao longo dos anos, percebi que a programação não é apenas uma ferramenta, mas sim um universo sem limites—um caminho que não possui ponto final, sempre desafiando e motivando a evolução constante.
+Trabalho com banco de dados MySQL, realizando modelagem, consultas otimizadas e manutenção de estruturas relacionais para aplicações web e APIs.
 
-Estou em busca de novos desafios, que me permitam expandir minha criatividade e habilidades. Para cada obstáculo que enfrento, adapto-me e encontro novas maneiras de crescer, seja desenvolvendo soluções inovadoras ou colaborando em projetos que agreguem valor ao mundo
-
-Projetos 🛠️
-
-Aqui você encontrará uma variedade de projetos que trabalhei, incluindo:
-
-Algoritmos e estruturas de dados
-
-Desenvolvimento de software
-Inteligência artificial
-
-E muito mais!
-
-
-Colaboração 💡
-
-Estou sempre aberto a colaborações e ideias novas. 
-
-Se você tem alguma sugestão ou quer trabalhar comigo em algum projeto, por favor, entre em contato!
+Tenho conhecimento de Git e GitHub, com versionamento de código, criação e gerenciamento de branches, pull requests e colaboração em projetos open-source.
 
 Contato 📬
 
@@ -38,4 +20,4 @@ Contato 📬
 </p>
 
 
-Obrigado pela visita e vamos codificar! 🎉👨‍💻
+
