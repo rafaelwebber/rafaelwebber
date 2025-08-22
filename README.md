@@ -2,9 +2,8 @@ Bem-vindo ao Repositório de Engenharia da Computação de Rafael Webber 👨‍
 
 Me chamo Rafael Lumertz Webber, natural de Torres/RS e atualmente residente em Morrinhos do Sul/RS. Tenho 24 anos e sou estudante de Engenharia da Computação na SATC, em Criciúma/SC.
 
-Atualmente trabalho na Anttecipe, na área de TI, atuando remotamente com desenvolvimento de APIs, integração de sistemas e soluções tecnológicas. Tenho experiência com as linguagens Python e C++, além de um breve conhecimento em Java e JavaScript.
-
-Trabalho com banco de dados MySQL, realizando modelagem, consultas otimizadas e manutenção de estruturas relacionais para aplicações web e APIs.
+Atualmente trabalho na Anttecipe, na área de TI, atuando remotamente com desenvolvimento de APIs, integração de sistemas e soluções tecnológicas. Tenho experiência com as linguagens Python e C++, além de um breve conhecimento em Java.
+Utilizamos o banco MySQL para o gerenciamento de dados.
 
 Tenho conhecimento de Git e GitHub, com versionamento de código, criação e gerenciamento de branches, pull requests e colaboração em projetos open-source.
 
