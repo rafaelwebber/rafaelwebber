@@ -20,3 +20,6 @@ Contato 📬
 
 
 
+### 🐍 Snake Game das Contribuições
+
+![Snake animation](https://github.com/rafaelwebber/rafaelwebber/blob/output/github-contribution-grid-snake.svg)
