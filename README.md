@@ -13,6 +13,7 @@ I'm Rafael Webber, a 24-year-old Computer Engineering student from Brazil. I wor
 
 ### 🐍 Snake Game das Contribuições
 
-![snake gif](https://github.com/rafaelwebber/rafaelwebber/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/rafaelwebber/rafaelwebber/blob/output/dist/github-contribution-grid-snake.gif)
+
 
 
