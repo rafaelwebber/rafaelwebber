@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 
+          fetch-depth: 0
 
       - name: Generate Snake Game
         uses: Platane/snk@v3
@@ -21,12 +21,17 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
-            
-      - name: Update local output branch with remote
+
+      - name: Prepare output branch
         run: |
-          git fetch origin output
-          git merge origin/output --allow-unrelated-histories || true
-      
+          git fetch origin
+          if git show-ref --verify --quiet refs/remotes/origin/output; then
+            git checkout output
+            git pull origin output
+          else
+            git checkout -b output
+          fi
+
       - name: Push to output branch
         uses: EndBug/add-and-commit@v9
         with:
