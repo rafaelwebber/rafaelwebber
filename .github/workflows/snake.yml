@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 
 
       - name: Generate Snake Game
         uses: Platane/snk@v3
@@ -27,6 +29,6 @@ jobs:
           author_email: github-actions@github.com
           message: 'Generate Snake Game'
           add: 'dist/*'
-          new_branch: origin output
+          push: origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
