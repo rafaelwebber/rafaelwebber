@@ -22,6 +22,13 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
 
+      - name: Commit generated files before switching branch
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add dist/*
+          git commit -m "Temp commit to preserve generated files" || echo "No changes to commit"
+
       - name: Prepare output branch
         run: |
           git fetch origin
@@ -31,6 +38,10 @@ jobs:
           else
             git checkout -b output
           fi
+
+      - name: Copy generated files to output branch
+        run: |
+          git checkout main -- dist/
 
       - name: Push to output branch
         uses: EndBug/add-and-commit@v9
