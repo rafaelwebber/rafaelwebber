@@ -27,6 +27,6 @@ jobs:
           author_email: github-actions@github.com
           message: 'Generate Snake Game'
           add: 'dist/*'
-          new_branch: output
+          new_branch: origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
