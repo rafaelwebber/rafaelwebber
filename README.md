@@ -13,9 +13,6 @@ I learn every day, not to compete, but to grow. My code may not be perfect, but 
 
 
 
-### 🐍 Snake Game 
-
-![Snake animation](https://rafaelwebber.github.io/rafaelwebber/github-contribution-grid-snake.svg)
 
 
 
