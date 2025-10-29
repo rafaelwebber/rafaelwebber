@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Executa todo dia à meia-noite
+  workflow_dispatch:      # Permite execução manual
 
 jobs:
   generate:
@@ -14,34 +14,19 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate Snake Game
-        uses: Platane/snk@v3
+      - name: Generate Snake Game (SVG only)
+        uses: Platane/snk@svg-only
         with:
           github_user_name: rafaelwebber
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
+          outputs: dist/github-contribution-grid-snake.svg
+          debug: true
 
-      - name: Commit generated files before switching branch
+      - name: Commit generated files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add dist/*
-          git commit -m "Temp commit to preserve generated files" || echo "No changes to commit"
-
-      - name: Prepare output branch
-        run: |
-          git fetch origin
-          if git show-ref --verify --quiet refs/remotes/origin/output; then
-            git checkout output
-            git pull origin output
-          else
-            git checkout -b output
-          fi
-
-      - name: Copy generated files to output branch
-        run: |
-          git checkout main -- dist/
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake SVG" || echo "No changes to commit"
 
       - name: Push to output branch
         uses: EndBug/add-and-commit@v9
@@ -49,7 +34,7 @@ jobs:
           author_name: github-actions
           author_email: github-actions@github.com
           message: 'Generate Snake Game'
-          add: 'dist/*'
+          add: 'dist/github-contribution-grid-snake.svg'
           push: origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
