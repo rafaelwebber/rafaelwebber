@@ -15,7 +15,7 @@ jobs:
           fetch-depth: 0
 
       - name: Generate Snake Game (SVG only)
-        uses:  Platane/snk@refs/heads/svg-only
+        uses:  lowlighter/snk@svg-only
         with:
           github_user_name: rafaelwebber
           outputs: dist/github-contribution-grid-snake.svg
