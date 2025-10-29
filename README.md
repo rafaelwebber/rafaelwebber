@@ -12,8 +12,4 @@ I learn every day, not to compete, but to grow. My code may not be perfect, but 
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwebber&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
