@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/badge/Remote_Work-22C55E?style=for-the-badge" alt="Remote" />
 </p>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 👨‍💻 Sobre mim
 
@@ -36,14 +38,33 @@ Sou estudante de **Engenharia da Computação**, trabalho remotamente com desenv
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=rafaelwebber&theme=transparent&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="Streak Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelwebber&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwebber&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=22C55E" alt="Top Languages" height="165" />
 </p>
 
-### 🐍
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rafaelwebber&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</p>
+
+### 📈 Gráfico de Atividade
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelwebber&theme=react-dark&hide_border=true&color=22C55E&line=22C55E&point=ffffff" alt="Activity Graph" width="100%" />
+</p>
+
+### 🐍 Cobrinha com meus commits
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rafaelwebber/rafaelwebber/main/dist/github-contribution-grid-snake.svg" alt="Snake eating contributions" width="100%" />
+</p>
+
+### 💬 Citação do dia
+
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&quoteCategory=programming&borderColor=22c55e" alt="Citação do dia" width="100%" />
 </p>
 
 ### 📫 Vamos conversar?
@@ -59,4 +80,10 @@ Sou estudante de **Engenharia da Computação**, trabalho remotamente com desenv
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rafaelwebber&style=flat-square&color=22C55E" alt="Profile views" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=60&section=footer" width="100%" />
 </p>
