@@ -38,7 +38,7 @@ Sou estudante de **Engenharia da Computação**, trabalho remotamente com desenv
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=rafaelwebber&theme=transparent&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="Streak Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=rafaelwebber&theme=dark&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="Streak Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelwebber&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwebber&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=22C55E" alt="Top Languages" height="165" />
 </p>
