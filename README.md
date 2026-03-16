@@ -43,7 +43,7 @@ Sou estudante de **Engenharia da Computação**, trabalho remotamente com desenv
 ### 🐍
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rafaelwebber/rafaelwebber/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" width="100%" />
+  <img src="https://raw.githubusercontent.com/rafaelwebber/rafaelwebber/main/dist/github-contribution-grid-snake.svg" alt="Snake eating contributions" width="100%" />
 </p>
 
 ### 📫 Vamos conversar?
