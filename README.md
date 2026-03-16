@@ -40,9 +40,7 @@ Sou estudante de **Engenharia da Computação**, trabalho remotamente com desenv
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwebber&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=22C55E" alt="Top Languages" height="165" />
 </p>
 
-### 🐍 Cobrinha com meus commits
-
-A cobrinha "come" seu grafo de contribuições na ordem dos seus commits. Quanto mais você contribui, mais longa ela fica!
+### 🐍
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rafaelwebber/rafaelwebber/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" width="100%" />
