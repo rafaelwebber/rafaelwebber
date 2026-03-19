@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 0 * * *"  # Roda todo dia à meia-noite
   workflow_dispatch:     # Permite rodar manualmente
+  push:
+    branches: [main]     # Atualiza a cobrinha em todo push
 
 jobs:
   generate:
