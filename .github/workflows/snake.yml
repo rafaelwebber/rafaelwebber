@@ -5,7 +5,9 @@ on:
     - cron: "0 0 * * *"  # Roda todo dia à meia-noite
   workflow_dispatch:     # Permite rodar manualmente
   push:
-    branches: [main]     # Atualiza a cobrinha em todo push
+    branches: [main]
+    paths-ignore:       # Evita loop: não dispara quando só a cobrinha foi atualizada
+      - 'dist/**'
 
 jobs:
   generate:

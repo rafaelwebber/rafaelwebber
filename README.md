@@ -43,18 +43,6 @@ Sou estudante de **Engenharia da Computação**, trabalho remotamente com desenv
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwebber&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=22C55E&hide=C,C%2B%2B&langs_count=6" alt="Top Languages" height="165" />
 </p>
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafaelwebber&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</p>
-
-### 📈 Gráfico de Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelwebber&theme=react-dark&hide_border=true&color=22C55E&line=22C55E&point=ffffff" alt="Activity Graph" width="100%" />
-</p>
-
 ### 🐍 Cobrinha com meus commits
 
 <p align="center">
