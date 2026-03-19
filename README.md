@@ -45,10 +45,10 @@ Sou estudante de **Engenharia da Computação**, trabalho remotamente com desenv
 
 ### 📈 Gráfico de Atividade
 
-Calendário de contribuições (mesmos dados do seu perfil no GitHub):
+
 
 <p align="center">
-  <img src="https://gh-heat.anishroy.com/api/rafaelwebber/svg?theme=green&darkMode=true" alt="Gráfico de contribuições" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelwebber&theme=react-dark&hide_border=true&color=22C55E&line=22C55E&point=ffffff&area=true&area_color=22C55E" alt="Gráfico de atividade" width="100%" />
 </p>
 
 ### 🐍 Cobrinha com meus commits
