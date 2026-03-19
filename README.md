@@ -43,6 +43,14 @@ Sou estudante de **Engenharia da Computação**, trabalho remotamente com desenv
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwebber&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=22C55E&hide=C,C%2B%2B&langs_count=6" alt="Top Languages" height="165" />
 </p>
 
+### 📈 Gráfico de Atividade
+
+Calendário de contribuições (mesmos dados do seu perfil no GitHub):
+
+<p align="center">
+  <img src="https://gh-heat.anishroy.com/api/rafaelwebber/svg?theme=green&darkMode=true" alt="Gráfico de contribuições" width="100%" />
+</p>
+
 ### 🐍 Cobrinha com meus commits
 
 <p align="center">
