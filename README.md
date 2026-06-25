@@ -15,7 +15,7 @@
 
 Sou estudante de **Engenharia da Computação**, trabalho remotamente com desenvolvimento de **APIs** e **integração de sistemas**. Apaixonado por aprendizado contínuo e código limpo.
 
-> *"Aprendo todos os dias — não para competir, mas para crescer."*  
+> *"Aprendo todos os dias não para competir, mas para crescer."*  
 > Meu código pode não ser perfeito, mas é escrito com intenção e melhoria constante. Busco clareza, eficiência e propósito em cada linha. **Ser melhor do que ontem** é a única métrica que importa.
 
 ### 🚀 Atualmente
