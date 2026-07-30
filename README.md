@@ -16,12 +16,12 @@
 Sou estudante de **Engenharia da Computação**, trabalho remotamente com desenvolvimento de **APIs** e **integração de sistemas**. Muito interessado por tecnologia.
 
 > Gosto de esportes, principalmente por futebol e iniciei no mundo das corridas.
-> Em um mundo aonde a IA está em ascensão Busco sempre melhorar 
+> Em um mundo aonde a IA está em ascensão é o sopro criativo da alma humana que continuará a iluminar o caminho.
 
 ### Atualmente
 
 - Estou buscando novos conhecimentos em **Inteligência Artificial** e **Python**
-- Explorando formas modernas e tecnológicas para agricultura, especialmente para a Bananicultura  
+- Explorando formas modernas e tecnológicas para agricultura, especialmente para a **Bananicultura**
 
 
 ### 💬 Citação do dia
